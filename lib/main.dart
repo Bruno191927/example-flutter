@@ -2,7 +2,6 @@ import 'dart:io' show Platform;
 
 import 'package:flutter/material.dart';
 import 'package:genshin_impact/home/character_page.dart';
-import 'package:genshin_impact/home/home_desktop_page.dart';
 
 void main() => runApp(MyApp());
 
